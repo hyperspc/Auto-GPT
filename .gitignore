@@ -160,6 +160,11 @@ vicuna-*
 .DS_Store
 
 openai/
+scripts/auto_gpt_workspace/characters.txt
+scripts/auto_gpt_workspace/conversation_starter.txt
+my_ai_settings.yaml
+langchain.ipynb
+also_require.txt
 
 # news
 CURRENT_BULLETIN.md
